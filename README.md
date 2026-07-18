@@ -32,6 +32,10 @@ Author: **Nicolas Yammouny**, founder of MMC-DEV Lab
    The routing architecture that serves as the deployment target and testing ground
    for the models covered in the two reports above.
 
+4. **[Cook Your Way (CYW) — An Offline-First, Inventory-Aware Cooking App](docs/04-cook-your-way.md)**
+   Architecture and stack for a recipe/inventory app built around offline-first
+   design and food-type-aware expiry logic.
+
 ---
 
 ## Why This Exists
